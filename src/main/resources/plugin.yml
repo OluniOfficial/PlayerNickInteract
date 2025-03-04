@@ -1,0 +1,4 @@
+name: PlayerNickInteract
+version: '1.1'
+main: oluni.official.minecraft.playerNickInteract.PlayerNickInteract
+api-version: '1.21'
